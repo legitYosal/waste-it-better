@@ -5,3 +5,7 @@ Anything that is actually fun and somehow is related to learning programming, se
 ## Youtube
 
 * Watch full [video of mastering chaos](https://www.youtube.com/watch?v=CZ3wIuvmHeM).
+
+
+# Contribution
+Add anything you think is interesting here. 
