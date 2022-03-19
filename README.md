@@ -8,4 +8,4 @@ Anything that is actually fun and somehow is related to learning programming, se
 
 
 # Contribution
-Add anything you think is interesting here. 
+Add anything you think is interesting here so we can all waste our time better. 
