@@ -9,6 +9,7 @@ Anything that is actually fun and somehow is related to learning programming, se
 * Watch [Fruit Ninja journey](youtube.com/watch?v=St5v2uI-Nis).
 * Watch [Gitlab deletes production datbase](https://www.youtube.com/watch?v=tLdRBsuvVKc).
 * Watch [Osho talking about life](https://www.youtube.com/watch?v=HY9aw5cQRDQ).
+* Watch [gods chosen programmer](https://www.youtube.com/watch?v=h7gf5M04hdg)
 
 # Contribution
 Add anything you think is interesting here so we can all waste our time better. 
