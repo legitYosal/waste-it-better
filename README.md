@@ -10,6 +10,7 @@ Anything that is actually fun and somehow is related to learning programming, se
 * Watch [Gitlab deletes production datbase](https://www.youtube.com/watch?v=tLdRBsuvVKc).
 * Watch [Osho talking about life](https://www.youtube.com/watch?v=HY9aw5cQRDQ).
 * Watch [gods chosen programmer](https://www.youtube.com/watch?v=h7gf5M04hdg)
+* Read black's contributors heated argument on [Single quotes option](https://github.com/psf/black/issues/118)
 
 # Contribution
 Add anything you think is interesting here so we can all waste our time better. 
